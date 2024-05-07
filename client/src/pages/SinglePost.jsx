@@ -4,7 +4,7 @@ export const
 SinglePost = () => {
   return (
     <div>
-        SinglePost
+        Single
     </div>
   )
 }
